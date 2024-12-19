@@ -8,8 +8,10 @@
     <title>About Page</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	
-	<!-- Nhúng các CSS, icon (library) -->
+    <link rel="icon" href="/Web App/Liceria Jewelry/ProjectWeb/src/main/webapp/images/Products/about.png" />
+
+
+    <!-- Nhúng các CSS, icon (library) -->
 	<%@ include file="/common/library.jsp" %>
 </head>
 
@@ -17,15 +19,13 @@
     <%@ include file="/common/header.jsp" %> <!-- Nhúng header -->
 
 	<!-- Start Banner About -->
-    <section class="bg-success py-5">
+    <section class="bg-success">
         <div class="container">
-            <div class="row align-items-center py-5">
+            <div class="row align-items-center">
                 <div class="col-md-8 text-white">
                     <h1 class="fw-bold">About Us</h1>
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                        Welcome to Liceria, Liceria is an online platform specializing in premium, exquisite, and unique jewelry. With a mission to celebrate individual beauty, Liceria offers a wide range of designs, from classic to contemporary, tailored to suit every style and preference.
                     </p>
                 </div>
                 <div class="col-md-4">

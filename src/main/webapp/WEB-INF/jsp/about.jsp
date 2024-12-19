@@ -193,7 +193,7 @@ TemplateMo 559 Zay Shop
                 <div class="col-lg-6 m-auto">
                     <h1 class="h1">Our Brands</h1>
                     <p>
-                        GOOD WACTHES FOR THE LIFE
+                        Welcome to Liceria
                     </p>
                 </div>
                 <div class="col-lg-9 m-auto tempaltemo-carousel">
@@ -308,7 +308,7 @@ TemplateMo 559 Zay Shop
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
-                            <a class="text-decoration-none" href="mailto:info@company.com">info@company.com</a>
+                            <a class="text-decoration-none" href="mailto:liceria@company.com">liceria@company.com</a>
                         </li>
                     </ul>
                 </div>
@@ -316,13 +316,13 @@ TemplateMo 559 Zay Shop
                 <div class="col-md-4 pt-5">
                     <h2 class="h2 text-light border-bottom pb-3 border-light">Products</h2>
                     <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="#">Luxury</a></li>
-                        <li><a class="text-decoration-none" href="#">Sport Wear</a></li>
-                        <li><a class="text-decoration-none" href="#">Men's Shoes</a></li>
-                        <li><a class="text-decoration-none" href="#">Women's Shoes</a></li>
-                        <li><a class="text-decoration-none" href="#">Popular Dress</a></li>
-                        <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>
-                        <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>
+                        <li><a class="text-decoration-none" href="#">Rings</a></li>
+                        <li><a class="text-decoration-none" href="#">Necklaces</a></li>
+                        <li><a class="text-decoration-none" href="#">Earrings</a></li>
+                        <li><a class="text-decoration-none" href="#">Bracelets</a></li>
+<%--                        <li><a class="text-decoration-none" href="#">Popular Dress</a></li>--%>
+<%--                        <li><a class="text-decoration-none" href="#">Gym Accessories</a></li>--%>
+<%--                        <li><a class="text-decoration-none" href="#">Sport Shoes</a></li>--%>
                     </ul>
                 </div>
 
@@ -374,7 +374,7 @@ TemplateMo 559 Zay Shop
                 <div class="row pt-2">
                     <div class="col-12">
                         <p class="text-left text-light">
-                            Copyright &copy; 2021 Company Name 
+                            Copyright &copy; 2021 Liceria Jewelry
                             | Designed by <a rel="sponsored" href="https://templatemo.com/page/1" target="_blank">TemplateMo</a>
                         </p>
                     </div>

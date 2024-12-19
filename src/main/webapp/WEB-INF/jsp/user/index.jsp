@@ -36,7 +36,7 @@
                                 <h1 class="h1 text-success"><b>Liceria</b>STORE</h1>
                                 <h3 class="h2">Luxury and Perfect Jewelry</h3>
                                 <p>
-                                    <a href="/home/index" class="text-success" target="_blank">Liceria store</a> is a reputable sales website with beautiful jewelry
+                                    <a href="/home/index" class="text-success" target="_blank">Liceria Jewelry</a> is a reputable sales website with beautiful jewelry
                                 </p>
                             </div>
                         </div>
@@ -51,10 +51,10 @@
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <h1 class="h1">Proident occaecat</h1>
-                                <h3 class="h2">Aliquip ex ea commodo consequat</h3>
+                                <h1 class="h1">High-quality craftsmanship</h1>
+                                <h3 class="h2">Liceria’s collections.</h3>
                                 <p>
-                                     Thanks you
+                                    Each piece is crafted from high-quality materials such as gold, silver, diamonds, and natural gemstones, ensuring durability and lasting beauty.
                                 </p>
                             </div>
                         </div>
@@ -70,9 +70,9 @@
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
                                 <h1 class="h1">Beautiful and Luxury</h1>
-                                <h3 class="h2">Good Wacthes For Life </h3>
+                                <h3 class="h2">Exclusive designs </h3>
                                 <p>
-                                   This free CSS template comes from bootstrap !
+                                    Let Liceria be your companion in expressing your style and value!
                                 </p>
                             </div>
                         </div>
@@ -96,24 +96,24 @@
             <div class="col-lg-6 m-auto">
                 <h1 class="h1">Categories of The Month</h1>
                 <p>
-                    Good Products Of Watches This Month For Ya!
+                    Best Seller This Month For You!
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img src="/images/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Watches</h5>
+                <h5 class="text-center mt-3 mb-3">Necklaces</h5>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img src="/images/category_img_02.png" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Đồng Hồ Thời Trang </h2>
+                <h2 class="h5 text-center mt-3 mb-3">Earrings </h2>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img src="/images/category_img_03.png" class="rounded-circle img-fluid border"></a>
-                <h2 class="h5 text-center mt-3 mb-3">Đồng Hồ Quân Đội</h2>
+                <h2 class="h5 text-center mt-3 mb-3">Rings</h2>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
         </div>
