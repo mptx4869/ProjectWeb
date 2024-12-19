@@ -27,13 +27,10 @@
                 <div class="col-md-4 pt-5">
                     <h2 class="fw-bold text-light border-bottom pb-3 border-light">Products</h2>
                     <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Thể Thao">ĐỒNG HỒ THỂ THAO</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Cổ Điển">ĐỒNG HỒ CỔ ĐIỂN</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Thời Trang">ĐỒNG HỒ THỜI TRANG</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Sang Trọng"></a>ĐỒNG HỒ SANG TRỌNG</li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Lặn">ĐỒNG HỒ LẶN</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Phi Công">ĐỒNG HỒ QUÂN ĐỘI</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Quân Đội">ĐỒNG HỒ PHI CÔNG</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/ring">ring</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Necklace">Necklace</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Bracelet">Bracelet</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Earrings">Earrings</a></li>
                     </ul>
                 </div>
 
