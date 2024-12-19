@@ -149,9 +149,9 @@
                                 </li>
                                 <li class="text-muted text-right">$240.00</li>
                             </ul>
-                            <a href="/home/shop/Đồng Hồ Thời Trang" class="h2 text-decoration-none text-dark">Đồng Hồ Thời Trang</a>
+                            <a href="/home/shop/Necklaces" class="h2 text-decoration-none text-dark">Necklaces</a>
                             <p class="card-text">
-                                Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt in culpa qui officia deserunt.
+                                14K White Gold Pendant with Sapphire Liceria.
                             </p>
                             <p class="text-muted">Reviews (24)</p>
                         </div>
@@ -159,7 +159,7 @@
                 </div>
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
-                        <a href="/home/shop/Đồng Hồ Quân Đội">
+                        <a href="/home/shop/Bracelets">
                             <img src="/images/feature_prod_02.png" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
@@ -173,9 +173,9 @@
                                 </li>
                                 <li class="text-muted text-right">$480.00</li>
                             </ul>
-                            <a href="/shop-single" class="h2 text-decoration-none text-dark">Đồng Hồ Quân Đội</a>
+                            <a href="/shop-single" class="h2 text-decoration-none text-dark">Bracelets</a>
                             <p class="card-text">
-                                Aenean gravida dignissim finibus. Nullam ipsum diam, posuere vitae pharetra sed, commodo ullamcorper.
+                                18K Italian White Gold Bracelet Liceria.
                             </p>
                             <p class="text-muted">Reviews (48)</p>
                         </div>
@@ -197,9 +197,9 @@
                                 </li>
                                 <li class="text-muted text-right">$360.00</li>
                             </ul>
-                            <a href="home/shop/Đồng Hồ Sang Trọng" class="h2 text-decoration-none text-dark">Đồng Hồ Sang Trọng</a>
+                            <a href="home/shop/Bracelets" class="h2 text-decoration-none text-dark">Anklets</a>
                             <p class="card-text">
-                                Curabitur ac mi sit amet diam luctus porta. Phasellus pulvinar sagittis diam, et scelerisque ipsum lobortis nec.
+                                10K White Gold Anklet with ECZ Stone
                             </p>
                             <p class="text-muted">Reviews (74)</p>
                         </div>

@@ -11,7 +11,7 @@
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
-                            International University
+                            Ward 6, Thu Duc City, Ho Chi Minh City
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
@@ -27,13 +27,10 @@
                 <div class="col-md-4 pt-5">
                     <h2 class="fw-bold text-light border-bottom pb-3 border-light">Products</h2>
                     <ul class="list-unstyled text-light footer-link-list">
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Thể Thao">ĐỒNG HỒ THỂ THAO</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Cổ Điển">ĐỒNG HỒ CỔ ĐIỂN</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Thời Trang">ĐỒNG HỒ THỜI TRANG</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Sang Trọng"></a>ĐỒNG HỒ SANG TRỌNG</li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Lặn">ĐỒNG HỒ LẶN</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Phi Công">ĐỒNG HỒ QUÂN ĐỘI</a></li>
-                        <li><a class="text-decoration-none" href="/home/shop/Đồng Hồ Quân Đội">ĐỒNG HỒ PHI CÔNG</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Rings">RINGS</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Necklaces">NECKLACES</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Earrings">EARRINGS</a></li>
+                        <li><a class="text-decoration-none" href="/home/shop/Bracelets"></a>BRACELETS</li>
                     </ul>
                 </div>
 
