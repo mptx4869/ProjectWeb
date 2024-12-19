@@ -19,12 +19,12 @@
     <%@ include file="/common/header.jsp" %> <!-- Nhúng header -->
 
 	<!-- Start Banner About -->
-    <section class="bg-success">
+    <section class="bg-success" style="background-color: white;">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-8 text-white">
-                    <h1 class="fw-bold">About Us</h1>
-                    <p>
+                    <h1 class="fw-bold text-success">About Us</h1>
+                    <p style="color: black; ">
                         Welcome to Liceria, Liceria is an online platform specializing in premium, exquisite, and unique jewelry. With a mission to celebrate individual beauty, Liceria offers a wide range of designs, from classic to contemporary, tailored to suit every style and preference.
                     </p>
                 </div>

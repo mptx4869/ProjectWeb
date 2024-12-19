@@ -148,8 +148,8 @@ TemplateMo 559 Zay Shop
             <div class="col-lg-6 m-auto">
                 <h1 class="h1">Our Services</h1>
                 <p>
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    Lorem ipsum dolor sit amet.
+                    Let us be a part of your journey to shine brighter every day.
+                    Discover the world of Liceria — where beauty begins.
                 </p>
             </div>
         </div>
