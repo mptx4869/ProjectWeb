@@ -30,9 +30,6 @@ https://templatemo.com/tm-559-zay-shop
     <div class="container-fluid bg-light py-5">
         <div class="col-md-6 m-auto text-center fw-bold">
             <h1 class="fw-bold">Contact Us</h1>
-            <p>
-                Liên Hệ & Góp Ý Cho Chúng Tôi !
-            </p>
         </div>
     </div>
 	<!-- Close Content Page -->
@@ -40,7 +37,7 @@ https://templatemo.com/tm-559-zay-shop
 	<div class="row m-0 shadow"> <!-- START ROW -->
     	<!-- Start Map -->
     	<div class="map text-center col-6 border p-4">
-    		<iframe width="100%" height="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5646.318719897067!2d106.62800402947578!3d10.85360488846771!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317528dfcf546de7%3A0xf872809fb8deded!2zVHLGsMahzIBuZyBDYW8gxJDEg8yJbmcgRlBUIFBvbHl0ZWNobmljIEjhu5MgQ2jDrSBNaW5o!5e0!3m2!1svi!2s!4v1686363105912!5m2!1svi!2s" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    		<iframe width="100%" height="100%" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3918.131719788131!2d106.79904467604858!3d10.877584789277442!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d8a415a9d221%3A0x550c2b41569376f9!2sInternational%20University%20-%20VNU-HCM!5e0!3m2!1sen!2s!4v1734617926737!5m2!1sen!2s" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     	</div>
     	<!-- End Map -->
 
@@ -48,9 +45,9 @@ https://templatemo.com/tm-559-zay-shop
 		<div class="col-6 border p-4">
 				<form action="/home/send_Feedback" method="POST" class="m-auto" role="form_send_email">
 				<div class="alert alert-info py-2" role="alert">
-					Feedback - Góp Ý <br>
+					Feedback<br>
 					<c:if test="${messFeedback == null}">
-						<small class="text-danger">Mọi thắc mắc cũng như đóng góp ý kiến của quý khách, xin vui lòng nhập form bên dưới !	</small>
+						<small class="text-danger">If you have any questions or comments, please enter the form below!	</small>
 					</c:if>
 					<small class="text-danger">${messFeedback}</small>
 				</div>
