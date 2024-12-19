@@ -21,7 +21,7 @@ public class FeedbackController {
 			@RequestParam("subject") String subject,
 			@RequestParam("body") String body) {
 		String from_name = name+" <"+from+">"; //
-		String to = "alanone1501@gmail.com"; // mặc định địa chỉ nhận email khi gửi feed back
+		String to = "ititiu21353@student.hcm.edu.vn"; // mặc định địa chỉ nhận email khi gửi feed back
 		try{
 			mailerService.sendFeedback(from_name, to, subject, body);
 			model.addAttribute("messFeedback", "Gửi feedback thành công !");
