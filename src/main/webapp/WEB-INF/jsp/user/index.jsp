@@ -33,10 +33,10 @@
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
-                                <h1 class="h1 text-success"><b>TUAN</b>STORE</h1>
-                                <h3 class="h2">Luxury and Perfect Watches</h3>
+                                <h1 class="h1 text-success"><b>Liceria</b>STORE</h1>
+                                <h3 class="h2">Luxury and Perfect Jewelry</h3>
                                 <p>
-                                    <a href="https://github.com/tuan236200" class="text-success" target="_blank">tuan store</a> is a reputable sales website with beautiful watch
+                                    <a href="/home/index" class="text-success" target="_blank">Liceria store</a> is a reputable sales website with beautiful jewelry
                                 </p>
                             </div>
                         </div>

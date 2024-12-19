@@ -26,11 +26,13 @@
                 <div>
                     <i class="fa fa-envelope mx-2"></i>
                     <a class="navbar-sm-brand text-light text-decoration-none" href="ititiu21205@student.hcm.edu.vn">ititiu21205@student.hcm.edu.vn</a>
-                    <i class="fa fa-phone mx-2"></i>
-                    <a class="navbar-sm-brand text-light text-decoration-none" href="tel:itiiu20345@student.hcm.edu.vn">0348 720 610</a>
+                    <i class="fa fa-envelope mx-2"></i>
+                    <a class="navbar-sm-brand text-light text-decoration-none" href="ititiu21353@student.hcm.edu.vn">ititiu21353@student.hcm.edu.vn</a>
+                    <!-- <i class="fa fa-phone mx-2"></i>
+                    <a class="navbar-sm-brand text-light text-decoration-none" href="tel:ititiu21205@student.hcm.edu.vn">0348 720 610</a> -->
                 </div>
                 <div>
-                    <a class="text-light" href="https://www.facebook.com/TVD.TAI25/" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
+                    <a class="text-light" href="https://www.facebook.com/" target="_blank" rel="sponsored"><i class="fab fa-facebook-f fa-sm fa-fw me-2"></i></a>
                     <a class="text-light" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram fa-sm fa-fw me-2"></i></a>
                     <a class="text-light" href="https://twitter.com/" target="_blank"><i class="fab fa-twitter fa-sm fa-fw me-2"></i></a>
                     <a class="text-light" href="https://www.linkedin.com/" target="_blank"><i class="fab fa-linkedin fa-sm fa-fw"></i></a>
@@ -46,7 +48,7 @@
         <div class="container d-flex justify-content-between align-items-center">
 
             <a class="navbar-brand text-success logo h1 align-self-center" href="/index">
-                Tuan Dep Trai
+                Liceria Jewelry
             </a>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -135,7 +137,7 @@
                                 <h1 class="h1 text-success"><b>Zay</b> eCommerce</h1>
                                 <h3 class="h2">Luxury and Perfect Watch</h3>
                                 <p>
-                                    TUAN STORES PROVICE GOOD WATCHES FOR ALL PEOPLE THE WORD<a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">TemplateMo</a> website.
+                                    Liceria STORES PROVICE GOOD Jewelry FOR ALL PEOPLE THE WORD<a rel="sponsored" class="text-success" href="https://templatemo.com" target="_blank">TemplateMo</a> website.
                                     Image credits go to <a rel="sponsored" class="text-success" href="https://stories.freepik.com/" target="_blank">Freepik Stories</a>,
                                     <a rel="sponsored" class="text-success" href="https://unsplash.com/" target="_blank">Unsplash</a> and
                                     <a rel="sponsored" class="text-success" href="https://icons8.com/" target="_blank">Icons 8</a>.
@@ -200,14 +202,14 @@
             <div class="col-lg-6 m-auto">
                 <h1 class="h1">Categories of The Month</h1>
                 <p>
-                   Good Waches Of The Month For Ya!
+                   Good Jewelry Of The Month For Ya!
                 </p>
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
                 <a href="#"><img src="./assets/img/category_img_01.jpg" class="rounded-circle img-fluid border"></a>
-                <h5 class="text-center mt-3 mb-3">Watches</h5>
+                <h5 class="text-center mt-3 mb-3">Jewelry</h5>
                 <p class="text-center"><a class="btn btn-success">Go Shop</a></p>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">

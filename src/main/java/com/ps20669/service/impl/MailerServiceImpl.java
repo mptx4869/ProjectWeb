@@ -86,7 +86,7 @@ public class MailerServiceImpl implements MailerService {
 		}
 	}
 
-	private static final String EMAIL_WELCOME_SUBJECT = "Welcome to tuan store";
+	private static final String EMAIL_WELCOME_SUBJECT = "Welcome to Liceria Jewelry";
 	private static final String EMAIL_FORGOT_PASSWORD = " Send New Password";
 
 	@Override
@@ -101,7 +101,7 @@ public class MailerServiceImpl implements MailerService {
 				subject = EMAIL_FORGOT_PASSWORD;
 				content = "Dear: " + recipient.getFullname() + ", Your new password here: " + recipient.getPassword();
 			} else {
-				subject = "tuan dep trai";
+				subject = "Liceria Jewelry";
 				content = "This is the error email. please don't mind it !";
 			}
 			send(recipient.getEmail(), subject, content);

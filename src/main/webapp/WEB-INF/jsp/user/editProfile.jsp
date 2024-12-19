@@ -18,7 +18,6 @@
     <div class="container-fluid bg-light py-4">
         <div class="col-6 m-auto text-center">
             <h1 class="fw-bold">EDIT MY PROFILE</h1>
-            <p>Chỉnh Sửa Hồ Sơ Cá Nhân ?</p>
         </div>
     </div>
 	<!-- Close Cart Page -->
@@ -28,7 +27,7 @@
 			<form action="/home/editProfile" method="POST" class="col-6 p-0 m-auto mt-5 mb-5 shadow rounded">
 				<div class="p-3">
 				<div class="alert alert-info" role="alert">
-					Edit My Profile - Chỉnh Sửa Hồ Sơ Cá Nhân <br>
+					Edit My Profile<br>
 					<small class="text-danger">${messE}</small>
 				</div>
 				<hr class="p-0">

@@ -7,8 +7,8 @@
         <div class="container text-light">
             <div class="w-100 d-flex justify-content-between">
                 <div>
-                    <a class="navbar-sm-brand text-light fw-bold text-decoration-none btn" href="mailto:ITITIU20345@student.hcm.edu.vn"><i class="fa fa-envelope mx-2"></i> ITITIU20345@student.hcm.edu.vn</a>
-                    <a class="navbar-sm-brand text-light fw-bold text-decoration-none btn" href="tel:ITITIU20345@student.hcm.edu.vn"><i class="fa fa-phone mx-2"></i> 0896 373 554</a>
+                    <a class="navbar-sm-brand text-light fw-bold text-decoration-none btn" href="mailto:ITITIU21205@student.hcm.edu.vn"><i class="fa fa-envelope mx-2"></i> ITITIU21205@student.hcm.edu.vn</a>
+                    <a class="navbar-sm-brand text-light fw-bold text-decoration-none btn" href="mailto:ITITIU21353@student.hcm.edu.vn"><i class="fa fa-envelope mx-2"></i> ITITIU21353@student.hcm.edu.vn</a>
                 </div>
                 <c:if test="${accountLogin == null}"> <!-- lấy seesion từ /login --> <!-- Nếu chưa đăng nhập -->
 					<div>
@@ -35,7 +35,7 @@
         <div class="container d-flex justify-content-between align-items-center">
 
             <a class="navbar-brand text-success logo h1 align-self-center" href="/home/index">
-                Tuan STORE
+                Liceria Jewelry
             </a>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

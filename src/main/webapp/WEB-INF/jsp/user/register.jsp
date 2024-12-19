@@ -18,7 +18,6 @@
     <div class="container-fluid bg-light py-4">
         <div class="col-6 m-auto text-center">
             <h1 class="fw-bold">Sign Up For An Account</h1>
-            <p>Đăng Ký Tài Khoản ?</p>
         </div>
     </div>
 	<!-- Close Login Page -->
@@ -26,7 +25,7 @@
 	<!-- Start Login -->
 	<form action="/home/register/created" method="POST" class="m-auto col-6 shadow p-4 mt-4 mb-4" enctype="multipart/form-data">
 			<div class="alert alert-info py-2" role="alert">
-				Register Account - Đăng Ký Tài Khoản<br>
+				Register Account<br>
 				<small class="text-danger">${messR}</small>
 			</div>
 			<div class="form-group mb-3">

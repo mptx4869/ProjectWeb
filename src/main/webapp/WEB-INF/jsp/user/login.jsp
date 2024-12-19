@@ -17,8 +17,8 @@
 	<!-- Start Login Page -->
     <div class="container-fluid bg-light py-4">
         <div class="col-6 m-auto text-center">
-            <h1 class="fw-bold">Login To Tai's Store</h1>
-            <p>Đăng Nhập Vào Mua Đồ Của Tuấn</p>
+            <h1 class="fw-bold">WELCOME </h1>
+            <p></p>
         </div>
     </div>
 	<!-- Close Login Page -->
@@ -26,7 +26,7 @@
 	<!-- Start Login -->
 	<form action="/home/login" method="POST" class="m-auto col-6 shadow p-3 mt-4 mb-4">
 			<div class="alert alert-info text-center py-2" role="alert">
-				Login - Đăng Nhập<br>
+				Login<br>
 				<small class="text-danger">${messL}</small>
 			</div>
 			<div class="form-group row mb-3">
@@ -50,10 +50,10 @@
 			<div class="form-group row mb-3">
 				<label class="col-2 col-form-label"></label>
 				<div class="col-10">
-					<small>Bạn Chưa Có Tải Khoản ? <a href="/home/register" class="fw-bold"> Tạo Tài Khoản</a></small>
+					<small>You don't have an account yet ?<a href="/home/register" class="fw-bold"> register</a></small>
 				</div>
 			</div>
-			<button class="btn btn-primary fw-bold">Đăng Nhập</button>
+			<button class="btn btn-primary fw-bold">Login</button>
 	</form>
 	<!-- Close Login Page -->
 	

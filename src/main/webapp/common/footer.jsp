@@ -7,19 +7,19 @@
             <div class="row">
 
                 <div class="col-md-4 pt-5">
-                    <h2 class="fw-bold text-success border-bottom pb-3 border-light logo">TUAN Store </h2>
+                    <h2 class="fw-bold text-success border-bottom pb-3 border-light logo">Liceria Jewelry</h2>
                     <ul class="list-unstyled text-light footer-link-list">
                         <li>
                             <i class="fas fa-map-marker-alt fa-fw"></i>
-                            dĩ an,thủ đức
-                        </li>
-                        <li>
-                            <i class="fa fa-phone fa-fw"></i>
-                            <a class="text-decoration-none" href="tel:0348720610">089 637 3554</a>
+                            International University
                         </li>
                         <li>
                             <i class="fa fa-envelope fa-fw"></i>
-                            <a class="text-decoration-none" href="itiiu20345@student.hcm.edu.vn">itiiu20345@student.hcm.edu.vn</a>
+                            <a class="text-decoration-none" href="itiiu21353@student.hcm.edu.vn">itiiu21353@student.hcm.edu.vn</a>
+                        </li>
+                        <li>
+                            <i class="fa fa-envelope fa-fw"></i>
+                            <a class="text-decoration-none" href="itiiu21205@student.hcm.edu.vn">itiiu21205@student.hcm.edu.vn</a>
                         </li>
                     </ul>
                 </div>

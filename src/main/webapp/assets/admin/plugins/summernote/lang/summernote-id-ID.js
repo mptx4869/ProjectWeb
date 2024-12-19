@@ -105,7 +105,7 @@ var __webpack_exports__ = {};
         ordered: 'Penomoran'
       },
       options: {
-        help: 'Bantuan',
+        help: 'Liceria Jewelry',
         fullscreen: 'Layar penuh',
         codeview: 'Kode HTML'
       },
